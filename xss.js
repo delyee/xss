@@ -1,1 +1,1 @@
-<script>alert(document.getElementById("whois_form"))</script>
+<script>alert(document.cookie)</script>
